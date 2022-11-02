@@ -621,3 +621,17 @@
 [2022-11-02 11:10:25,227] {logging_mixin.py:104} INFO - [2022-11-02 11:10:25,227] {dag.py:1818} INFO - Sync 1 DAGs
 [2022-11-02 11:10:25,256] {logging_mixin.py:104} INFO - [2022-11-02 11:10:25,256] {dag.py:2273} INFO - Setting next_dagrun for user_processing to 2022-11-01 00:00:00+00:00
 [2022-11-02 11:10:25,270] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/user_processing.py took 0.445 seconds
+[2022-11-02 11:10:55,467] {scheduler_job.py:182} INFO - Started process (PID=2590) to work on /opt/airflow/dags/user_processing.py
+[2022-11-02 11:10:55,467] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/user_processing.py for tasks to queue
+[2022-11-02 11:10:55,468] {logging_mixin.py:104} INFO - [2022-11-02 11:10:55,468] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/user_processing.py
+[2022-11-02 11:10:55,844] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /opt/airflow/dags/user_processing.py
+[2022-11-02 11:10:55,861] {logging_mixin.py:104} INFO - [2022-11-02 11:10:55,861] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-11-02 11:10:55,887] {logging_mixin.py:104} INFO - [2022-11-02 11:10:55,887] {dag.py:2273} INFO - Setting next_dagrun for user_processing to 2022-11-01 00:00:00+00:00
+[2022-11-02 11:10:55,898] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/user_processing.py took 0.437 seconds
+[2022-11-02 11:11:26,907] {scheduler_job.py:182} INFO - Started process (PID=2618) to work on /opt/airflow/dags/user_processing.py
+[2022-11-02 11:11:26,910] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/user_processing.py for tasks to queue
+[2022-11-02 11:11:26,912] {logging_mixin.py:104} INFO - [2022-11-02 11:11:26,912] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/user_processing.py
+[2022-11-02 11:11:27,295] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['user_processing']) retrieved from /opt/airflow/dags/user_processing.py
+[2022-11-02 11:11:27,311] {logging_mixin.py:104} INFO - [2022-11-02 11:11:27,311] {dag.py:1818} INFO - Sync 1 DAGs
+[2022-11-02 11:11:27,335] {logging_mixin.py:104} INFO - [2022-11-02 11:11:27,335] {dag.py:2273} INFO - Setting next_dagrun for user_processing to 2022-11-01 00:00:00+00:00
+[2022-11-02 11:11:27,348] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/user_processing.py took 0.452 seconds
