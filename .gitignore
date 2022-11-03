@@ -1,0 +1,6 @@
+# dirs
+logs/
+dags/__pycache__/
+
+# files
+*.loggit 
