@@ -1,6 +1,7 @@
 # dirs
 logs
 dags/__pycache__
+dags/subdags/__pycache__/
 
 # files
 **.log
