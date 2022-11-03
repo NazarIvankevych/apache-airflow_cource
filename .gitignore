@@ -1,9 +1,14 @@
 # dirs
+<<<<<<< HEAD
 logs
 dags/__pycache__
 dags/subdags/__pycache__/
+=======
+logs/
+dags/__pycache__/
+>>>>>>> 4e4cdfb917b4e862886503ee050df32becbb2797
 
 # files
-**.log
+*.log
 logs/dag_processor_manager.py
 dags/__pycache__/
