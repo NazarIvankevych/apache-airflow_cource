@@ -1,6 +1,8 @@
 # dirs
-logs/
+logs
 dags/__pycache__
 
 # files
 **.log
+logs/dag_processor_manager.py
+dags/__pycache__/
