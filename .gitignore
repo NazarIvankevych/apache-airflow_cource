@@ -3,4 +3,4 @@ logs/
 dags/__pycache__/
 
 # files
-*.loggit 
+*.log
